@@ -4,5 +4,5 @@ Projetos da matéria de processamento de imagem
 1. Introdução a processamento de dados
 * Codigo simples introduzindo algumas funções de processamento de imagem    
 2. Aquisicao_de_imagens 
-*Continuação do primeiro codigo usando outros conversões de cor de imagens e usando matriz de ax para plotar imagens
+* Continuação do primeiro codigo usando outros conversões de cor de imagens e usando matriz de ax para plotar imagens
   
