@@ -23,3 +23,5 @@ Projetos da matéria de processamento de imagem
   <li>Moda</li>
   <li>Máxima</li>
 </ul>
+9. aula06_11
+* Aula que foi visto com segmentação para ver contornos usamos imagem de moeda
