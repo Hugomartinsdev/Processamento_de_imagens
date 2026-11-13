@@ -39,3 +39,6 @@ Projetos da matéria de processamento de imagem
     <li>Segmentação semântica</li>
     <li>Segmentação por instância </li>
   </ul>
+
+11. aula13_11
+* Codigo usando utilizando o CIFAR-10 e CNN
